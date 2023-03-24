@@ -1,0 +1,23 @@
+﻿  Method_Optimisation.cpp
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(328,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(370,53): warning C4101: c: неиспользованная локальная переменная
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(428,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(620,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(620,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(632,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(639,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(649,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(656,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(674,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(675,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(684,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(689,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(705,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(709,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HOME\source\repos\Method_Optimisation\Method_Optimisation\Method_Optimisation.cpp(709,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  47 of 259 functions (18.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Method_Optimisation.vcxproj -> C:\Users\HOME\source\repos\Method_Optimisation\Release\Method_Optimisation.exe
